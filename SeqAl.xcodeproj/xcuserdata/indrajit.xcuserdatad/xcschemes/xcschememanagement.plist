@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BioProject2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>PlaygroundUIDevelopement.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SeqAl.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A58602DF217595510026E129</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A58602F3217595520026E129</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A58602FE217595520026E129</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A58603202175970B0026E129</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
