@@ -24,6 +24,7 @@ Apart from code clean up:
 
 * Onboarding flow along with a brief explanation of each of the supported algorithms.
 * Scrolling support in both directions.
+* iPad support
 * Animations: better grid walkthrough and transition animation to detail view.
 
 ## Licensing
