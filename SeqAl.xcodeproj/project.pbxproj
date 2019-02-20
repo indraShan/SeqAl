@@ -11,7 +11,6 @@
 		A55771D121AE514700E060DD /* SLInputViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55771D021AE514700E060DD /* SLInputViewModel.swift */; };
 		A55771D321AE60BA00E060DD /* SLInputCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55771D221AE60BA00E060DD /* SLInputCell.swift */; };
 		A55771D521AE640500E060DD /* SLInputCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55771D421AE640500E060DD /* SLInputCellViewModel.swift */; };
-		A55771D721AE87B000E060DD /* SLOptionsInputCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55771D621AE87B000E060DD /* SLOptionsInputCellViewModel.swift */; };
 		A55771D921AE87CA00E060DD /* SLOptionsInputCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55771D821AE87CA00E060DD /* SLOptionsInputCell.swift */; };
 		A5640C3721B102FB00EC39EE /* SLAlignmentResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5640C3621B102FB00EC39EE /* SLAlignmentResultView.swift */; };
 		A577C93621AF964000B81334 /* SLControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A577C93521AF964000B81334 /* SLControlView.swift */; };
@@ -52,7 +51,6 @@
 		A55771D021AE514700E060DD /* SLInputViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLInputViewModel.swift; sourceTree = "<group>"; };
 		A55771D221AE60BA00E060DD /* SLInputCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLInputCell.swift; sourceTree = "<group>"; };
 		A55771D421AE640500E060DD /* SLInputCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLInputCellViewModel.swift; sourceTree = "<group>"; };
-		A55771D621AE87B000E060DD /* SLOptionsInputCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLOptionsInputCellViewModel.swift; sourceTree = "<group>"; };
 		A55771D821AE87CA00E060DD /* SLOptionsInputCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLOptionsInputCell.swift; sourceTree = "<group>"; };
 		A5640C3621B102FB00EC39EE /* SLAlignmentResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLAlignmentResultView.swift; sourceTree = "<group>"; };
 		A577C93521AF964000B81334 /* SLControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SLControlView.swift; sourceTree = "<group>"; };
@@ -146,7 +144,6 @@
 				A5E862832189AEF800580029 /* SLGridViewModel.swift */,
 				A55771D021AE514700E060DD /* SLInputViewModel.swift */,
 				A55771D421AE640500E060DD /* SLInputCellViewModel.swift */,
-				A55771D621AE87B000E060DD /* SLOptionsInputCellViewModel.swift */,
 				A5EBB06621B0936000F264B0 /* SLSettingsCellViewModel.swift */,
 			);
 			path = ViewModel;
@@ -264,7 +261,6 @@
 				A577C93621AF964000B81334 /* SLControlView.swift in Sources */,
 				A5EBB08521B0A88B00F264B0 /* PatternSearch.swift in Sources */,
 				A5EBB06721B0936000F264B0 /* SLSettingsCellViewModel.swift in Sources */,
-				A55771D721AE87B000E060DD /* SLOptionsInputCellViewModel.swift in Sources */,
 				A55771D121AE514700E060DD /* SLInputViewModel.swift in Sources */,
 				A5B05FAC21867A9B00EADD81 /* SLGridView.swift in Sources */,
 				A5EBB06521B08DCD00F264B0 /* SLSettingsCell.swift in Sources */,

@@ -80,7 +80,7 @@ public class SLOptionsInputCell: UICollectionViewCell {
     super.init(coder: aDecoder)
   }
 
-  public func setup(withViewModel viewModel: SLOptionsInputCellViewModel) {
+  public func setup() {
     button1.tag = AlignmentType.GlobaAlignment.rawValue
     button2.tag = AlignmentType.LocalAlignment.rawValue
     button3.tag = AlignmentType.DoveTail.rawValue

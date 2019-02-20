@@ -106,10 +106,9 @@ extension SLInputView: UICollectionViewDataSource {
       cell.setup(withViewModel: cellModel)
       return cell
     }
-    let cellModel = viewModel.inputViewModels[indexPath.row] as! SLOptionsInputCellViewModel
     let cell = collectionView.dequeueReusableCell(withReuseIdentifier: SLOptionsInputCell.cell_reuseIdentifier(), for: indexPath) as! SLOptionsInputCell
     cell.deleate = self;
-    cell.setup(withViewModel: cellModel)
+    cell.setup()
     return cell
   }
 

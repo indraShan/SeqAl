@@ -19,7 +19,6 @@ public class SLInputViewModel: NSObject {
     inputViewModels = [AnyObject]()
     inputViewModels.append(SLTextInputCellViewModel(x, "X", UIReturnKeyType.next))
     inputViewModels.append(SLTextInputCellViewModel(y, "Y", UIReturnKeyType.next))
-    inputViewModels.append(SLOptionsInputCellViewModel())
     super.init()
   }
 
